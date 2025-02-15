@@ -1,8 +1,6 @@
 # Trove 🏆🤖
 *A modular AI agent framework for intelligent automation and decision-making.*
 
-![Trove Logo](https://your-logo-link.com)
-
 ## 🌟 Features
 ✔️ Plug-and-play AI agents  
 ✔️ Support for multiple LLMs (GPT, Llama, Mistral)  
