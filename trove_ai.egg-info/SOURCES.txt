@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+tests/test_agent.py
+tests/test_models.py
+trove/__init__.py
+trove/agent.py
+trove/models.py
+trove/utils.py
+trove_ai.egg-info/PKG-INFO
+trove_ai.egg-info/SOURCES.txt
+trove_ai.egg-info/dependency_links.txt
+trove_ai.egg-info/requires.txt
+trove_ai.egg-info/top_level.txt

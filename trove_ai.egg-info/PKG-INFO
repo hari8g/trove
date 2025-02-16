@@ -1,0 +1,20 @@
+Metadata-Version: 2.2
+Name: trove-ai
+Version: 0.1
+Summary: A modular AI agent framework for intelligent automation.
+Home-page: https://github.com/yourusername/trove
+Author: Your Name
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
+
+# trove
